@@ -20,7 +20,10 @@
 **🎓 [CourseForge](https://github.com/mohith2309/courseforge)** — *AI builds your study course from one sentence.*
 Type a goal like *"I'm studying for IAS, help me crack it"* and the app generates a full structured course — modules, lessons, narrated text-to-speech video-style player, and quizzes. Offline-first Flutter app + a hardened zero-dependency Node backend on Railway, Firestore datastore, native Razorpay, and a multi-provider LLM chain (Groq → Mistral → GitHub Models) with automatic failover.
 
-**💸 GenPay** — *Offline-first UPI expense tracker.*
+**🖨️ [Dittox](https://github.com/mohith2309/dittox)** — *Document printing, simplified.*
+Upload your files, find nearby print shops on a live map, place an order, and track it to pickup — all from your phone. Flutter app with a customer side and a print-shop owner dashboard, backed by Firebase (Auth, Firestore, Storage, FCM), Google Maps, and Cloud Functions.
+
+**💸 [GenPay](https://github.com/mohith2309/genpay)** — *Offline-first UPI expense tracker.*
 A privacy-friendly Flutter money tracker with on-device AI spending insights and a tiny zero-dependency Node backend. No accounts required, everything stays on the phone.
 
 **🏛️ Yojana Mitra** — *AI assistant for Indian government schemes.*
