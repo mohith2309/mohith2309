@@ -19,6 +19,9 @@
 
 ### 🚀 What I'm building
 
+**🏢 [m.ai](https://github.com/mohith2309/pitti-rokini)** — *my own AI lab. One kid, zero budget, a full model lineup.*
+I train language models **completely from scratch** — nanoGPT, free Kaggle GPUs, and spite. The lab ships the **Potus / Ropus / Alus** family (versioned like a real org), its own OpenAI-compatible API server, a one-file web interface, a training pipeline that eats Wikipedia + web text + code + stories, and actual weights on git LFS. Stated goal: beat Claude Opus 4.6. Current status: the models can introduce themselves. Progress.
+
 **⚡ [Sparky](https://github.com/mohith2309/sparky)** — *a coding platform for kids: my own programming language + a native IDE.*
 Kids click Scratch-style blocks that type **real text code** in Sparky, an English-like language I designed (`say`, `repeat 10 times`, `teach square length`), then watch it run on a turtle-graphics stage with synthesized sounds and musical notes. Hand-written tokenizer → parser → interpreter in pure Python, and a fully native PyQt6 IDE — syntax highlighting, autocomplete, 10 built-in lessons, kid-friendly errors with "did you mean", an extension system, and one-click export of programs as double-clickable apps. No Chromium, no Electron.
 
