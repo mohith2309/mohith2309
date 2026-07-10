@@ -19,7 +19,7 @@
 
 ### 🚀 What I'm building
 
-**🏢 [m.ai](https://github.com/mohith2309/pitti-rokini)** — *my own AI lab. One kid, zero budget, a full model lineup.*
+**🏢 [m.ai](https://github.com/mohith2309/m.ai)** — *my own AI lab. One kid, zero budget, a full model lineup.*
 I train language models **completely from scratch** — nanoGPT, free Kaggle GPUs, and spite. The lab ships the **Potus / Ropus / Alus** family (versioned like a real org), its own OpenAI-compatible API server, a one-file web interface, a training pipeline that eats Wikipedia + web text + code + stories, and actual weights on git LFS. Stated goal: beat Claude Opus 4.6. Current status: the models can introduce themselves. Progress.
 
 **⚡ [Sparky](https://github.com/mohith2309/sparky)** — *a coding platform for kids: my own programming language + a native IDE.*
