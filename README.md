@@ -11,11 +11,16 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
 </p>
 
 ---
 
 ### 🚀 What I'm building
+
+**⚡ [Sparky](https://github.com/mohith2309/sparky)** — *a coding platform for kids: my own programming language + a native IDE.*
+Kids click Scratch-style blocks that type **real text code** in Sparky, an English-like language I designed (`say`, `repeat 10 times`, `teach square length`), then watch it run on a turtle-graphics stage with synthesized sounds and musical notes. Hand-written tokenizer → parser → interpreter in pure Python, and a fully native PyQt6 IDE — syntax highlighting, autocomplete, 10 built-in lessons, kid-friendly errors with "did you mean", an extension system, and one-click export of programs as double-clickable apps. No Chromium, no Electron.
 
 **🎓 [CourseForge](https://github.com/mohith2309/courseforge)** — *AI builds your study course from one sentence.*
 Type a goal like *"I'm studying for IAS, help me crack it"* and the app generates a full structured course — modules, lessons, narrated text-to-speech video-style player, and quizzes. Offline-first Flutter app + a hardened zero-dependency Node backend on Railway, Firestore datastore, native Razorpay, and a multi-provider LLM chain (Groq → Mistral → GitHub Models) with automatic failover.
